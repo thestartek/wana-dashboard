@@ -1,0 +1,54 @@
+{
+  "_from": "@sweetalert2/theme-bootstrap-4@^4.0.3",
+  "_id": "@sweetalert2/theme-bootstrap-4@4.0.3",
+  "_inBundle": false,
+  "_integrity": "sha512-jP8cpQy4cGjlGPkEK8KF/owF00BRz5vvEdi5VrpTsiMjdkte85a1EZ/azPsX9HQrMAZ2qAmIsleV8UDcl8R2YQ==",
+  "_location": "/@sweetalert2/theme-bootstrap-4",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "@sweetalert2/theme-bootstrap-4@^4.0.3",
+    "name": "@sweetalert2/theme-bootstrap-4",
+    "escapedName": "@sweetalert2%2ftheme-bootstrap-4",
+    "scope": "@sweetalert2",
+    "rawSpec": "^4.0.3",
+    "saveSpec": null,
+    "fetchSpec": "^4.0.3"
+  },
+  "_requiredBy": [
+    "/admin-lte"
+  ],
+  "_resolved": "https://registry.npmjs.org/@sweetalert2/theme-bootstrap-4/-/theme-bootstrap-4-4.0.3.tgz",
+  "_shasum": "7a9e7a99f5ecfb353e4ba9a16de918736162370c",
+  "_spec": "@sweetalert2/theme-bootstrap-4@^4.0.3",
+  "_where": "/Users/startek/Desktop/WingsCyberspaceInt/my-project/node_modules/admin-lte",
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/sweetalert2/sweetalert2-themes/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Bootstrap 4 theme for SweetAlert2",
+  "files": [
+    "*.css",
+    "*.scss"
+  ],
+  "homepage": "https://sweetalert2.github.io/",
+  "keywords": [
+    "sweetalert2",
+    "bootstrap-4",
+    "theme",
+    "themes",
+    "theming",
+    "sass"
+  ],
+  "license": "MIT",
+  "main": "bootstrap-4.css",
+  "name": "@sweetalert2/theme-bootstrap-4",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sweetalert2/sweetalert2-themes.git"
+  },
+  "version": "4.0.3"
+}
